@@ -764,31 +764,33 @@ body {
     url(./assets/images/Book\ U.jpeg);
   background-position: center;
   background-size: cover;
-  color: var(--color-white-light);
-  padding: 3rem;
+  padding: 9rem;
 }
 .aboutinfor{
   min-height: 30vh;
   display: flex;
   justify-content: space-around ;
   align-items:first baseline;
-  gap: 10rem;
-  padding: 0 8rem;
+  gap: 20rem;
+  padding: 1rem 10rem;
 
 }
 
 .aboutinfor h2{
   text-align: center;
+}
+.abouth2 {
   font-size: 5rem;
+  color: bisque;
 }
 
-.aboutinfor p{
+.abouttexts {
   font-size: 3rem;
+  color: whitesmoke
 }
 .whyjoin{
   text-align: center;
-  font-size: 3rem;
-  
+  font-size: 3rem;  
 }
 
 
